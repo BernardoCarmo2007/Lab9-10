@@ -20,7 +20,7 @@ export default function InputEcho() {
                 placeholder="Escreva algo..."
                 className="bg-green-500 hover:bg-green-600 active:bg-green-700 hover:pointer text-white font-bold py-2 px-4 m-2 border border-green-700 rounded"
                 value={texto}
-                onChange={(e) => setTexto(e.target.value)}
+                onChange={(event) => setTexto(event.target.value)}
 
             />
             <p>Texto digitado: {texto}</p> 

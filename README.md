@@ -7,5 +7,7 @@ Este é um projeto [Next.js](https://nextjs.org) gerado a partir de [`create-nex
 1. Clique no link do repositório GitHub https://github.com/ULHT-PW/next-aula-02
 2. Clique em Fork
 4. Abra no Codespace
+5. instale a extensão ES7+
 6. Corra o servidor de desenvolvimento com `npm run dev`
-9. Abra [http://localhost:3000](http://localhost:3000) com o seu browser para ver a aplicação.
+9. Abra [http://localhost:3000](http://localhost:3000) com o seu browser 
+10. Explore a aplicação, páginas e componentes.
